@@ -21,4 +21,6 @@ Add deaths / recovered / active predict
 
 **Prediction at 2020/03/28**
 
+Convid-19 World Confirm predict(With China Data)
 
+![image](https://raw.githubusercontent.com/pangafu/covid-19-prediction-by-country-and-province/master/prediction/20200328/world(With%20China%20Data).png)
