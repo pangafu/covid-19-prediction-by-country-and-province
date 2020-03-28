@@ -8,17 +8,17 @@ The predict value is not accurate unless the confirm value bigger than 1000 and 
 
 **NOTE:**
 
-  I copied the data collection part from this notebook : https://www.kaggle.com/alixmartin/covid-19-predictions
+1. I copied the data collection part from this notebook : https://www.kaggle.com/alixmartin/covid-19-predictions
   
-  Use the github data to predict newest case https://github.com/CSSEGISandData/COVID-19
+2. Use the github data to predict newest case https://github.com/CSSEGISandData/COVID-19
   
-  Can predict by country/province
+3. Can predict by country/province
   
-  Full world predict (With China Data / Without China Data)
+4. Full world predict (With China Data / Without China Data)
   
-  More pretty code
+5. More pretty code
   
-  I will update the predict every day
+6. I will update the predict every day
 
 
 **TODO:**
