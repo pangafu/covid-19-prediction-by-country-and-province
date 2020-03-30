@@ -28,6 +28,12 @@ Add deaths / recovered / active predict
 
 **Prediction at 2020/03/28**
 
+
+Convid-19 Country(China)
+
+![image](https://raw.githubusercontent.com/pangafu/covid-19-prediction-by-country-and-province/master/prediction/20200330/country(China)_all.png)
+
+
 Convid-19 World Confirm predict(With China Data)
 
 ![image](https://raw.githubusercontent.com/pangafu/covid-19-prediction-by-country-and-province/master/prediction/20200330/world(With%20China%20Data).png)
@@ -41,12 +47,6 @@ Convid-19 World Confirm predict(Without China Data)
 Convid-19 Province(Hubei)
 
 ![image](https://raw.githubusercontent.com/pangafu/covid-19-prediction-by-country-and-province/master/prediction/20200330/province(Hubei).png)
-
-
-
-Convid-19 Country(China)
-
-![image](https://raw.githubusercontent.com/pangafu/covid-19-prediction-by-country-and-province/master/prediction/20200330/country(China).png)
 
 
 Convid-19 Country(UK)
