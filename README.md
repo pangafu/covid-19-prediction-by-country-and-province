@@ -4,7 +4,7 @@ https://www.kaggle.com/yuanquan/covid-19-prediction-by-country-and-province
 
 **NOTICE:**
 
-The predict value is not accurate unless the confirm value bigger than 1000 and duration > 15 days, so please not be scared and keep patient. Figures are for reference only.
+The predict value is not accurate unless the confirm/deaths/recorverd huge increasment day duration > 2-3 weeks, so please not be scared and keep patient. Figures are for reference only.
 
 **NOTE:**
 
